@@ -8,7 +8,7 @@ Simple calculator app which was built for solving simple mathematical equations
 To install required dependencies.
 
 ### `npm start`
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser or visit [deployed website](https://zaridzeorion.github.io/drum-machine/)
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser or visit [deployed website](https://zaridzeorion.github.io/calculator/)
 
 
 ### How Project Looks Like:
